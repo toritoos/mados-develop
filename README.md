@@ -127,13 +127,6 @@ python -m marinext.evaluation \
 
 Графики лежат в папке `figures/`.
 
-## Источники и лицензия
-
-- Kikaki K., Kakogeorgiou I., Karantzalos K. Detecting Marine Pollutants and Sea Surface Features with Deep Learning in Sentinel-2 Imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 2024.
-- Guo M.-H. et al. SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation. NeurIPS.
-
-Лицензия: см. файл [LICENSE](LICENSE).
-
 ## Автор
 
 Сугак В. А., группа ИИ-26, ФЭИС, БрГТУ. Руководитель: Андренко К. В.
